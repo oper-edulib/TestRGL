@@ -7,11 +7,11 @@
             "name": "udem-ete-image-montreal.jpg", 
             "org": "UMontreal", 
             "revision": null, 
-            "run": "2014_A", 
+            "run": "course", 
             "tag": "c4x"
         }, 
         "displayname": "udem-ete-image-montreal.jpg", 
-        "filename": "asset-v1:UMontreal+Test01+2014_A+type@asset+block@udem-ete-image-montreal.jpg", 
+        "filename": "asset-v1:UMontreal+Test01+course+type@asset+block@udem-ete-image-montreal.jpg", 
         "import_path": "udem-ete-image-montreal.jpg", 
         "locked": false, 
         "thumbnail_location": [

@@ -47,8 +47,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/2014_A.xml", 
-                "course/2014_A.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }

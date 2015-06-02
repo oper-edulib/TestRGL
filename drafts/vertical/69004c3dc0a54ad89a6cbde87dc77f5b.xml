@@ -1,4 +1,4 @@
-<vertical display_name="Unité" parent_url="block-v1:UMontreal+Test01+2014_A+type@sequential+block@1fa32242bd764163af7470553e42a56d" index_in_children_list="0">
+<vertical display_name="Unité" parent_url="block-v1:UMontreal+Test01+course+type@sequential+block@1fa32242bd764163af7470553e42a56d" index_in_children_list="0">
   <openassessment url_name="0d78dc3ff9024f2c9e75a19c72d5e40f" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" allow_file_upload="False" allow_latex="False">
     <title></title>
     <assessments>
